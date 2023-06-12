@@ -12,6 +12,6 @@
    Solution link: <a href="https://www.frontendmentor.io/solutions/fylo-data-storage-component--lRfROXpAl">Click Here!</a>
     </li>
     <li>
-Challenge link:  <a href="https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub">Click Here!</a>
+Live site url:  <a href="https://fylo-data-storage-component-xleyzor.vercel.app/">Click Here!</a>
     </li>
 </ul>
