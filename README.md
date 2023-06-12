@@ -9,9 +9,9 @@
 
 <ul>
     <li>
-   Solution link: <a href="https://www.frontendmentor.io/solutions/fylo-data-storage-component--lRfROXpAl">Click Here!</a>
+   Solution URL: <a href="https://www.frontendmentor.io/solutions/fylo-data-storage-component--lRfROXpAl">Click Here!</a>
     </li>
     <li>
-Live site url:  <a href="https://fylo-data-storage-component-xleyzor.vercel.app/">Click Here!</a>
+Live Site URL:  <a href="https://fylo-data-storage-component-xleyzor.vercel.app/">Click Here!</a>
     </li>
 </ul>
