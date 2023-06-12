@@ -216,6 +216,6 @@ footer a {
     border-bottom-right-radius: 10px;
   }
   footer {
-    margin-top: 10rem;
+    display:none;
   }
 }
